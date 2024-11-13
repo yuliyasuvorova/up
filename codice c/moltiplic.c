@@ -14,7 +14,7 @@ int main() {
 
     risultato_molt = primo_numero * secondo_numero;
 
-    printf("\nIl risultato della moltiplicazione tra i numeri che hai inserito è: &d\n", risultato_molt);
+    printf("\nIl risultato della moltiplicazione tra i numeri che hai inserito è: %d\n", risultato_molt);
 
     return 0;
 }
