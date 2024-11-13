@@ -1,2 +1,5 @@
 nome= input("come ti chiami?")
-print(F"ciao {nome}")
+if(nome):
+    print(F"ciao {nome}")
+else:
+    print("potevi dirmelo!")
